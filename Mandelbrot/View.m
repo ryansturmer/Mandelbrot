@@ -108,7 +108,7 @@ void hsv_to_rgb(float *r, float *g, float *b, float h, float s, float v) {
         self.w = 4;
         self.h = 3;
         self.elapsed = 0;
-        self.color_mode = RAINBOW;
+        self.color_mode = GREEN;
         [self update];
     }
     return self;
