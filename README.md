@@ -1,2 +1,3 @@
-Mandelbrot viewer for OS X using OpenCL
+![Screenshot](https://raw.github.com/fogleman/Mandelbrot/master/screenshot.png)
+
 
